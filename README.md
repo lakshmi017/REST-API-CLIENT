@@ -25,3 +25,6 @@ HttpClient (Java 11+) – A newer, more convenient API introduced in Java 11 tha
 Apache HttpClient – A popular open-source library with more advanced features for managing HTTP connections.
 
 RestTemplate / WebClient – Provided by Spring Framework. These are high-level abstractions used in enterprise applications for REST API consumption.
+
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/d5410ebd-f5cd-4be4-b1ce-59611a9326a6)
